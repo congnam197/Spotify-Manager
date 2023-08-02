@@ -1,0 +1,86 @@
+{
+  "songs": [
+    {
+      "id": 10,
+      "name_song": "Nơi này có anh",
+      "singer": "Sơn Tùng MTP",
+      "artist": "Sơn Tùng MTP",
+      "date": "05:00",
+      "number_fav": "111",
+      "status": {
+        "id": 1,
+        "description": "Công khai"
+      }
+    },
+    {
+      "id": 2,
+      "name_song": "Khó vẽ nụ cười",
+      "singer": "Dạt G",
+      "artist": "Đạt G",
+      "date": "04:30",
+      "number_fav": "111",
+      "status": {
+        "id": 1,
+        "description": "Công khai"
+      }
+    },
+    {
+      "id": 3,
+      "name_song": "See you again",
+      "singer": "Wiz Khalifa",
+      "artist": "Chailiputh",
+      "date": "05:00",
+      "number_fav": "111",
+      "status": {
+        "id": 1,
+        "description": "Công khai"
+      }
+    },
+    {
+      "id": 4,
+      "name_song": "Lạc trôi",
+      "singer": "Sơn Tùng MTP",
+      "artist": "Sơn Tùng MTP",
+      "date": "05:00",
+      "number_fav": "111",
+      "status": {
+        "id": 1,
+        "description": "Công khai"
+      }
+    },
+    {
+      "name_song": "Tran Thi Thanh",
+      "status": {
+        "id": 1,
+        "description": "Công khai"
+      },
+      "singer": "Charlie Puth",
+      "artist": "ádsadsa",
+      "date": "4:50",
+      "number_fav": 2,
+      "id": 5
+    },
+    {
+      "name_song": "ewewe",
+      "status": {
+        "id": 2,
+        "description": "Lưu Trữ"
+      },
+      "singer": "fsfsfsfsfsfsfsfsfsfsdfsf",
+      "artist": "fsfsdfsfsfsfsfsdfsdfsdfsd",
+      "date": "04:50",
+      "number_fav": 0,
+      "id": 11
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "description": "Công khai"
+    },
+    {
+      "id": 2,
+      "description": "Lưu Trữ"
+    }
+  ]
+}
